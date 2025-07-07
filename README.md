@@ -1,4 +1,4 @@
-## Hi, I'm **Naveena Priya** [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/naveena-priya-n-830784255/)
+# Hi, I'm **Naveena Priya** [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/naveena-priya-n-830784255/)
 
 
 
