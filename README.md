@@ -3,24 +3,27 @@
 
 
 <br/>
+<br/>
 
-### 🤝 Looking to collaborate on
+## 🤝 Looking to collaborate on
 
 - Real-world **Data Science** & **ML** projects  
 - Front-end applications using **React**, **HTML/CSS/JS**  
 - **Open-source** dashboards or visual analytics tools
 
 <br/>
+<br/>
 
-### Fun fact
+## Fun fact
 
 I once shifted domains *overnight* just to apply for a data analytics internship — and ended up loving it more than anything I’d ever done before.  
 That's how I discovered my passion!
 
 <br/>
+<br/>
 
 
-### Tech Stack
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-white?style=flat-square&logo=c%2B%2B&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=black)
@@ -45,9 +48,9 @@ That's how I discovered my passion!
 ![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=black)
 
 <br/>
+<br/>
 
-
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=NaveenapriyaN&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -57,20 +60,21 @@ That's how I discovered my passion!
 
 
 <br/>
+<br/>
 
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=NaveenapriyaN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
 
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=NaveenapriyaN&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 <br/>
-
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=NaveenapriyaN&icon=0&color=9)](https://visitcount.itsvg.in)
