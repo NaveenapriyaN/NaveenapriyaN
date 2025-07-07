@@ -1,5 +1,3 @@
-## 🚀 About Me
-
 Hi, I'm **Naveena Priya**
 
 ---
