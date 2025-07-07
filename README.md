@@ -19,7 +19,6 @@ That's how I discovered my passion!
 
 <br/>
 
----
 
 # 💻 Tech Stack
 
@@ -47,7 +46,6 @@ That's how I discovered my passion!
 
 <br/>
 
----
 
 # 📊 GitHub Stats
 
@@ -60,7 +58,6 @@ That's how I discovered my passion!
 
 <br/>
 
----
 
 ## 🏆 GitHub Trophies
 
@@ -68,14 +65,12 @@ That's how I discovered my passion!
 
 <br/>
 
----
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=NaveenapriyaN&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=NaveenapriyaN&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 <br/>
 
----
 
 [![](https://visitcount.itsvg.in/api?id=NaveenapriyaN&icon=0&color=9)](https://visitcount.itsvg.in)
