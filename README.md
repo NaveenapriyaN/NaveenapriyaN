@@ -13,8 +13,7 @@
 
 ## Fun fact
 
-I once shifted domains *overnight* just to apply for a data analytics internship — and ended up loving it more than anything I’d ever done before.  
-That's how I discovered my passion!
+I once shifted domains *overnight* just to apply for a data analytics internship — and ended up loving it more than anything I’d ever done before. That's how I discovered my passion!
 
 <br/>
 <br/>
