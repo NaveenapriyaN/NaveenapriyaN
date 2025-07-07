@@ -18,7 +18,28 @@ I once shifted domains *overnight* just to apply for a data analytics internship
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![C++](https://img.shields.io/badge/C++-white?style=flat-square&logo=c%2B%2B&logoColor=black)
+![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=flat-square&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-white?style=flat-square&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-white?style=flat-square&logo=streamlit&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-white?style=flat-square&logo=amazon-aws&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-white?style=flat-square&logo=vercel&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express-white?style=flat-square&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-white?style=flat-square&logo=mongodb&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-white?style=flat-square&logo=microsoft-sql-server&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-white?style=flat-square&logo=numpy&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-white?style=flat-square&logo=pandas&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-white?style=flat-square&logo=scikit-learn&logoColor=black)
+![Git](https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=black)
+
 
 ---
 
