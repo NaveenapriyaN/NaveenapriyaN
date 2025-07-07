@@ -1,7 +1,5 @@
 ## Hi, I'm **Naveena Priya**
 
----
-
 ## 🤝 Looking to collaborate on
 
 - Real-world **Data Science** & **ML** projects  
