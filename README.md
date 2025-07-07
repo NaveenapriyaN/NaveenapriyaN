@@ -1,4 +1,5 @@
 ## Hi, I'm **Naveena Priya**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveena-priya-n-830784255/)
 
 ---
 
@@ -13,12 +14,6 @@
 ## ⚡ Fun fact
 
 I once shifted domains *overnight* just to apply for a data analytics internship — and ended up loving it more than anything I’d ever done before. That's how I discovered my passion!
-
-
----
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/naveena-priya-n-830784255/)
 
 ---
 
