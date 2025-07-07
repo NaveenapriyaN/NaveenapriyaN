@@ -4,7 +4,7 @@
 
 <br/>
 
-## 🤝 Looking to collaborate on
+### 🤝 Looking to collaborate on
 
 - Real-world **Data Science** & **ML** projects  
 - Front-end applications using **React**, **HTML/CSS/JS**  
@@ -12,7 +12,7 @@
 
 <br/>
 
-## ⚡ Fun fact
+### Fun fact
 
 I once shifted domains *overnight* just to apply for a data analytics internship — and ended up loving it more than anything I’d ever done before.  
 That's how I discovered my passion!
@@ -20,7 +20,7 @@ That's how I discovered my passion!
 <br/>
 
 
-# 💻 Tech Stack
+### Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-white?style=flat-square&logo=c%2B%2B&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=black)
@@ -47,7 +47,7 @@ That's how I discovered my passion!
 <br/>
 
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=NaveenapriyaN&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)
 
@@ -59,7 +59,7 @@ That's how I discovered my passion!
 <br/>
 
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=NaveenapriyaN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
