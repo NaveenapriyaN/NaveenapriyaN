@@ -5,8 +5,8 @@
 ## 🤝 Looking to collaborate on
 
 - Real-world **Data Science** & **ML** projects  
-- Front-end applications using **React**, **HTML/CSS/JS**  
-- **Open-source** dashboards or visual analytics tools
+- End-to-end web applications
+- **Open-source** tools that provide interactive visual insights to users
 
 <br/>
 <br/>
